@@ -15,14 +15,18 @@ body {
 
 main {
   display: inline-block;
-  margin-top: 2%;
   padding: 15px;
   position: relative;
 }
 
+.pokeapi {
+width: 17rem;
+}
+
+
 .pokedex {
   width: 100%;
-  max-width: 425px;
+  max-width: 390px;
 }
 
 .pokemon__image {
